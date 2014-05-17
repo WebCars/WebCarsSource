@@ -1,0 +1,34 @@
+﻿* {
+    margin:0 auto;
+}
+
+#tudo {
+    margin-top:25px;
+    width:1080px;
+}
+
+#anuncioPrincipal{
+    border:none;
+    float:right; 
+    height:250px; 
+    width:652px;  
+    padding:10px;  
+}
+
+
+#pesquisaPrincipal {
+    float:left;
+}
+
+#pesquisaPrincipal span, input{
+    margin:10px 0;
+}
+
+#patrocinio{
+      margin-top:15px;
+      height:260px; 
+      width:652px;
+      overflow:hidden;
+      float:right;
+      border:1px solid #000;
+}
