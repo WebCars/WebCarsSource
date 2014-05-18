@@ -16,8 +16,9 @@
             "height": 240,
             "pagination": true,
             "fadetime": 350,
-            "delay": 5000
+            "delay": 500
         };
+        first = true;
 
         var options = $.extend(defaults, options);
 
@@ -70,14 +71,29 @@
                             bottom: 0
                         }, 300);
                     }
-                });
+                });               
             }
 
             // Auto mode
             function auto() {
                 setInterval(function () {
-                    $slides.filter(":first-child").fadeOut(options.fadetime).next("li").fadeIn(options.fadetime).end().appendTo("#slideshow ul");
+                    console.log("1");
+                    
+                    
+                    console.log("2");
+                    $paginationClass = $("#pagination li a.active");
+                    paginationHref = $paginationClass.attr('href');;
+                    href = paginationHref.substring(6, 7);
+                    if (href >= $slides.size())
+                        href = 0;
+                    console.log("3");
+                    var $pagination = $("#pagination li a");
+                    $pagination.removeClass("active");
+                    next = parseInt(href) + 1;
+                    str = 'a[href="#slide' + next + '"]';
 
+                    $(str).addClass("active");
+                    console.log("5");
                     $slides.each(function () {
                         if ($slides.is(":visible")) {
                             $(".caption").css("bottom", "-37px");
@@ -86,8 +102,13 @@
                             }, 300);
                         }
                     });
-
-                }, options.delay);
+                    console.log("6");
+                    $slides.filter(":first-child").fadeOut(1000);
+                    $slides.filter(":first-child").next("li").fadeIn(1000, function () {
+                        $slides.filter(":first-child").next("li").end().appendTo("ul", self)
+                        auto();
+                    });
+                }, 1000);
             }
             
             // Width
@@ -104,12 +125,13 @@
             // Check Boolean values
             if (options.pagination === true) {
                 paginate();
+               
             } else {
-                auto();
+               
             }
-
+            auto();
             captions(); manual();
-
+            
         });
     };
 })(jQuery);

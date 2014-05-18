@@ -58,10 +58,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\craftyslide.css" />
+    <Content Include="css\slippry.css" />
     <Content Include="home.aspx" />
     <Content Include="css\homeStyle.css" />
     <Content Include="js\craftyslide.js" />
     <Content Include="js\craftyslide.min.js" />
+    <Content Include="js\slippry.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
