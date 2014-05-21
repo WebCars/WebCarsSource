@@ -3,9 +3,15 @@
     font-family:'Trebuchet MS';
 }
 
-#tudo {
-    margin-top:25px;
+a {
+    text-decoration:none;
+    color:#000;
+}
+
+#tudoTopo {
+    margin-top:55px;
     width:1000px;
+  
     
 }
 
@@ -14,16 +20,16 @@
     float:right; 
     height:250px; 
     width:650px;  
-    padding:10px;  
+    padding:0  10px 10px 10px;  
 }
-
-
 
 #pesquisaPrincipal {
     padding:10px;
     width:300px;
-    float:left;
- 
+    float:left; 
+    background-color:#007fd9;
+    border-radius:0 0 0 1em;
+    height:500px;
 }
 
 #pesquisaPrincipal span, input{
@@ -35,8 +41,7 @@
       height:220px; 
       width:652px;
       overflow:hidden;
-      float:right;
-      
+      float:right;      
 }
 
 .clear{
@@ -44,12 +49,12 @@
 }
 
 #maisAnuncios {
-   width:124px;
+   width:124px  ;
    position:absolute;
    bottom:0;
    left:50%;
    margin-left:-62px;
-   height:30px;
+   height:50px;
     
 }
 #maisAnuncios p{
@@ -59,4 +64,25 @@
 #maisAnuncios img{
     float: right;
     margin-top:5px;
+}
+#listaAnuncios {
+    width:1000px;
+}
+
+#listaAnuncios ul{
+
+    list-style:none;
+}
+
+
+#listaAnuncios ul li{
+    display:inline-block;
+    margin:0 10px 10px 0 ;
+    border:3px solid #6f8ea4;
+}
+
+
+.descricaoAnuncio {
+    height:220px;    
+   
 }

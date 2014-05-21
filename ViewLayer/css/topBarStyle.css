@@ -1,0 +1,13 @@
+﻿.topBar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    border:2px solid #0053ff;
+    background:#ccc;
+    height:40px;
+    z-index:999;        
+}
+
+#login {
+    margin-left:70%;
+}

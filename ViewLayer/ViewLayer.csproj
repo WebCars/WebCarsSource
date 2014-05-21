@@ -63,7 +63,11 @@
     <Content Include="css\homeStyle.css" />
     <Content Include="js\craftyslide.js" />
     <Content Include="js\craftyslide.min.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\quicksand.js" />
     <Content Include="js\slippry.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="topBarUser.ascx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -74,7 +78,21 @@
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="topBarUser.ascx.cs">
+      <DependentUpon>topBarUser.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="topBarUser.ascx.designer.cs">
+      <DependentUpon>topBarUser.ascx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">
