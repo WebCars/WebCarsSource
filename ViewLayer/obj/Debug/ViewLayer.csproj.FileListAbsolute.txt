@@ -3,3 +3,8 @@ C:\Users\Edian\documents\visual studio 2012\Projects\WebCars\ViewLayer\bin\ViewL
 C:\Users\Edian\documents\visual studio 2012\Projects\WebCars\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
 C:\Users\Edian\documents\visual studio 2012\Projects\WebCars\ViewLayer\obj\Debug\ViewLayer.dll
 C:\Users\Edian\documents\visual studio 2012\Projects\WebCars\ViewLayer\obj\Debug\ViewLayer.pdb
+C:\Gradebook\WebCarsSource\ViewLayer\bin\ViewLayer.dll
+C:\Gradebook\WebCarsSource\ViewLayer\bin\ViewLayer.pdb
+C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.dll
+C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
