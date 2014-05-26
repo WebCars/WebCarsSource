@@ -2,7 +2,7 @@
 
 <div class="topBar">
     <div id="logo">
-
+        <h1>WebCars</h1>
     </div>
     <div id="login">
         <p>
