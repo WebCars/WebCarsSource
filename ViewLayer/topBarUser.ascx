@@ -6,7 +6,7 @@
     </div>
     <div id="login">
         <p>
-           <asp:HyperLink ID="entrarHyperLink" runat="server" CssClass="text">Entrar</asp:HyperLink>
+           <asp:HyperLink ID="entrarHyperLink" runat="server" CssClass="text" NavigateUrl="~/login.aspx">Entrar</asp:HyperLink>
            |
            <asp:HyperLink ID="registrarHyperLink" runat="server" CssClass="text">Crie sua conta</asp:HyperLink>
         </p>

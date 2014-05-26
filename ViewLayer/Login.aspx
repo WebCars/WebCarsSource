@@ -4,16 +4,27 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Login</title>
+    <link href="css/loginStyle.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        <asp:Label ID="usuarioLabel" runat="server" Text="Usuário"></asp:Label>
-        <asp:TextBox ID="usuarioTextBox" runat="server"></asp:TextBox>
-        <asp:Label ID="senhaLabel" runat="server" Text="Senha"></asp:Label>
-        <asp:TextBox ID="senhaTextBox" runat="server"></asp:TextBox>
-        <asp:Button ID="entrarButton" runat="server" Text="Entrar" />
+    <div id="loginBox">
+        <div id="header">
+            <asp:HyperLink ID="homeHyperLink" runat="server" NavigateUrl="~/home.aspx">WebCars</asp:HyperLink>
+        </div>
+        <div id="usuario">
+            <asp:Label ID="usuarioLabel" runat="server" Text="Usuário"></asp:Label>
+            <asp:TextBox ID="usuarioTextBox" runat="server"></asp:TextBox>
+        </div>
+        <div id="senha">
+            <asp:Label ID="senhaLabel" runat="server" Text="Senha"></asp:Label>
+            <asp:TextBox ID="senhaTextBox" runat="server"></asp:TextBox>
+        </div>        
+        <div id="actions">            
+            <asp:Button ID="entrarButton" runat="server" Text="Entrar" />
+            <asp:HyperLink ID="cadastreHyperLink" runat="server">Cadastre-se</asp:HyperLink>
+        </div>
     </div>
     </form>
 </body>

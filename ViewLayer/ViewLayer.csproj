@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\craftyslide.css" />
+    <Content Include="css\loginStyle.css" />
     <Content Include="css\slippry.css" />
     <Content Include="css\topBarStyle.css" />
     <Content Include="home.aspx" />

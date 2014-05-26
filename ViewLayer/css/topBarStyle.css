@@ -22,8 +22,8 @@
 
 .topBar a:hover{
    text-decoration:underline;
-    padding:20px;
-    cursor:pointer;
+   cursor:pointer;
+   padding:20px;
 }
 
 #login {

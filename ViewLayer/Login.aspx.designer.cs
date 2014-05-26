@@ -22,6 +22,15 @@ namespace ViewLayer {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// homeHyperLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink homeHyperLink;
+        
+        /// <summary>
         /// usuarioLabel control.
         /// </summary>
         /// <remarks>
@@ -65,5 +74,14 @@ namespace ViewLayer {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button entrarButton;
+        
+        /// <summary>
+        /// cadastreHyperLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink cadastreHyperLink;
     }
 }
