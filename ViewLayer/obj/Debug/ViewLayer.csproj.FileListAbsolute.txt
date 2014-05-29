@@ -8,3 +8,9 @@ C:\Gradebook\WebCarsSource\ViewLayer\bin\ViewLayer.pdb
 C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
 C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.dll
 C:\Gradebook\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ViewLayer.dll.config
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ViewLayer.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ViewLayer.pdb
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
