@@ -54,7 +54,7 @@ namespace ViewLayer
                 //Cria objeto usuario local, baseado no objeto da sessao
                 //A sessao objUsuario armazena um objeto usuario, o qual
                 //mantem as informações relacionadas as permissoes de acesso ao usuario
-                 Anunciante user = (Anunciante)context.Session["usuario"];
+                 /*Anunciante user = (Anunciante)context.Session["usuario"];
                  
                 List<string> a = HttpContext.Current.Application["paginaSegura"] as List<string>;
 
@@ -63,7 +63,7 @@ namespace ViewLayer
                 {
                     //se o usuario nao tiver permissao de acessar a pagina, ele é direcionado para uma página de erros
                     context.Response.Redirect("~/erropermissao.aspx", true);
-                }
+                }*/
         }
 
         //metodo padrao para descarregar a classe

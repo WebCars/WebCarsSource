@@ -54,10 +54,10 @@ a {
 }
 
 #pesquisaPrincipal h1{
-    margin:5px 0 5px 40px;
+    margin:5px 0 15px 40px;
     text-shadow: 0.1em 0.1em 0.2em #000;
     color:#fff;
-    font-size:18px;
+    font-size:28px;
 }
 
 #patrocinio{      
@@ -192,7 +192,7 @@ a {
 }
 
 #pesquisaTable tr td{
-    padding:1px 5px;
+    padding:5px 5px;
 }
 
 .boxPesquisa {
@@ -217,10 +217,11 @@ a {
 
 input, select {
     outline:none; 
+    border:0;
 }
 
 #pesquisarButton {
-  margin:10px 0 0 136px;
+  margin:10px 0 0 122px;
   border-radius:0 12px 0 12px;
   border:1px solid #000; 
   width:140px;
@@ -260,4 +261,11 @@ input[type=text], select
     border-radius: 5px; /*up to date browsers support this, but you can add prefixes if you want*/    
 }
 
-
+#IE10,#IE9,#IE8 input[type=text], select
+{
+    font-size:14px;  
+    text-decoration: none;    
+    background-repeat: repeat-x;
+    overflow:hidden;
+    
+}

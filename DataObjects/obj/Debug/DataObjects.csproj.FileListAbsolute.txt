@@ -1,0 +1,4 @@
+C:\Gradebook\WebCarsSource\DataObjects\bin\DataObjects.dll
+C:\Gradebook\WebCarsSource\DataObjects\bin\DataObjects.pdb
+C:\Gradebook\WebCarsSource\DataObjects\obj\Debug\DataObjects.dll
+C:\Gradebook\WebCarsSource\DataObjects\obj\Debug\DataObjects.pdb

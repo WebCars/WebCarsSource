@@ -14,3 +14,5 @@ C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\Web
 C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
 C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.dll
 C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
+C:\Gradebook\WebCarsSource\ViewLayer\bin\DataObjects.dll
+C:\Gradebook\WebCarsSource\ViewLayer\bin\DataObjects.pdb
