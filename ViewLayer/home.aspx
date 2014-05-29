@@ -105,8 +105,8 @@
                     </tr>
                     <tr>
                         <td align="right"><asp:Label ID="Label4" runat="server" Text="Preço" CssClass="labelPesquisa"></asp:Label></td>
-                        <td><asp:TextBox ID="precoInicialTextBox" runat="server" Width="80px" placeholder="R$" cssClass="boxPesquisa"></asp:TextBox>
-                        a <asp:TextBox ID="precoFinalTextbox" runat="server" Width="80px" placeholder="R$" cssClass="boxPesquisa"></asp:TextBox></td>
+                        <td><asp:TextBox ID="precoInicialTextBox" runat="server" Width="66px" placeholder="R$" cssClass="boxPesquisa"></asp:TextBox>
+                        a <asp:TextBox ID="precoFinalTextbox" runat="server" Width="66px" placeholder="R$" cssClass="boxPesquisa"></asp:TextBox></td>
                     </tr>
                     <tr>
                         <td align="right"><asp:Label ID="cidadeLabel" runat="server" Text="Cidade" CssClass="labelPesquisa"></asp:Label></td>                        
@@ -146,9 +146,7 @@
 			            </ul>
                   </div>
                 </div>
-                <div id="patrocinio">
-                    <img src="images\friboi.jpg" />
-                </div>           
+                    
             </div>                
         </div>
             <a href="#outrosAnuncios" class="maisAnuncios">

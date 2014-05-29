@@ -11,7 +11,24 @@ namespace ViewLayer
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            colocaAnoDropDownList();
 
+
+            
         }
+
+        private void colocaAnoDropDownList()
+        {
+            DateTime begin = Convert.ToDateTime("01/01/1900");
+            DateTime end = DateTime.Now;
+            int cont = 0;
+            for (DateTime date = end; date >= begin; date = date.AddYears(-1))
+            {
+                anoInicialDropDownList1.Items.Insert(cont, new ListItem(date.Year.ToString(), date.Year.ToString()));
+                anoFinalDropDownList2.Items.Insert(cont, new ListItem(date.Year.ToString(), date.Year.ToString()));
+                cont++;
+            }
+        }
+        
     }
 }

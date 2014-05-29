@@ -19,11 +19,11 @@
         </div>
         <div id="senha">
             <asp:Label ID="senhaLabel" runat="server" Text="Senha"></asp:Label>
-            <asp:TextBox ID="senhaTextBox" runat="server"></asp:TextBox>
+            <asp:TextBox ID="senhaTextBox" runat="server" TextMode="Password"></asp:TextBox>
         </div>        
         <div id="actions">            
             <asp:Button ID="entrarButton" runat="server" Text="Entrar" />
-            <asp:HyperLink ID="cadastreHyperLink" runat="server">Cadastre-se</asp:HyperLink>
+            <asp:HyperLink ID="cadastreHyperLink" runat="server" NavigateUrl="~/cadastro.aspx">Cadastre-se</asp:HyperLink>
         </div>
     </div>
     </form>

@@ -1,0 +1,38 @@
+﻿*{
+    margin:0 auto;
+    font-family:'Trebuchet MS';
+ 
+}
+
+body {
+    background:#f5f5f5;
+}
+
+#tudo {
+    width:1000px;
+}
+
+#anuncioSlider {
+    height:700px;    
+}
+
+#imageSlider {
+    height:500px;
+    overflow:hidden;
+}
+
+
+#principal {
+    float: left;
+    width:33%
+}
+
+#opcionais {
+    float: left;
+    width:33%;
+}
+
+#anunciante {
+    float:right;
+    width:33%;
+}

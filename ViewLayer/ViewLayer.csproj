@@ -57,23 +57,47 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="anuncio.aspx" />
+    <Content Include="cadastro.aspx" />
+    <Content Include="css\anuncioStyle.css" />
+    <Content Include="css\cadastroStyle.css" />
     <Content Include="css\craftyslide.css" />
     <Content Include="css\loginStyle.css" />
     <Content Include="css\slippry.css" />
+    <Content Include="css\supersized.css" />
+    <Content Include="css\supersized.shutter.css" />
     <Content Include="css\topBarStyle.css" />
     <Content Include="home.aspx" />
     <Content Include="css\homeStyle.css" />
+    <Content Include="js\cidades-estados-1.2-utf8.js" />
     <Content Include="js\craftyslide.js" />
     <Content Include="js\craftyslide.min.js" />
     <Content Include="js\jquery-min.js" />
     <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.easing.min.js" />
     <Content Include="js\quicksand.js" />
     <Content Include="js\slippry.js" />
+    <Content Include="js\supersized.3.2.7.js" />
+    <Content Include="js\supersized.3.2.7.min.js" />
     <Content Include="Login.aspx" />
     <Content Include="topBarUser.ascx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="anuncio.aspx.cs">
+      <DependentUpon>anuncio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="anuncio.aspx.designer.cs">
+      <DependentUpon>anuncio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro.aspx.cs">
+      <DependentUpon>cadastro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cadastro.aspx.designer.cs">
+      <DependentUpon>cadastro.aspx</DependentUpon>
+    </Compile>
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
