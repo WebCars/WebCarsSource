@@ -22,7 +22,7 @@
             <asp:TextBox ID="senhaTextBox" runat="server" TextMode="Password"></asp:TextBox>
         </div>        
         <div id="actions">            
-            <asp:Button ID="entrarButton" runat="server" Text="Entrar" />
+            <asp:Button ID="entrarButton" runat="server" Text="Entrar" OnClick="entrarButton_Click"/>
             <asp:HyperLink ID="cadastreHyperLink" runat="server" NavigateUrl="~/cadastro.aspx">Cadastre-se</asp:HyperLink>
         </div>
     </div>

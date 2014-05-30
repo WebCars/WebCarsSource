@@ -13,6 +13,15 @@ namespace ViewLayer {
     public partial class topBarUser {
         
         /// <summary>
+        /// login control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl login;
+        
+        /// <summary>
         /// entrarHyperLink control.
         /// </summary>
         /// <remarks>
@@ -31,6 +40,15 @@ namespace ViewLayer {
         protected global::System.Web.UI.WebControls.HyperLink registrarHyperLink;
         
         /// <summary>
+        /// logado control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl logado;
+        
+        /// <summary>
         /// usuarioLogadoLabel control.
         /// </summary>
         /// <remarks>
@@ -38,5 +56,23 @@ namespace ViewLayer {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label usuarioLogadoLabel;
+        
+        /// <summary>
+        /// painelHyperLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink painelHyperLink;
+        
+        /// <summary>
+        /// sairHyperLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink sairHyperLink;
     }
 }

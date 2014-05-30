@@ -26,7 +26,7 @@
    padding:20px;
 }
 
-#login {
+.login {
     margin-left:70%;
 }
 
@@ -45,4 +45,9 @@
     float:left;
     margin-left:20%;
     border-radius:0 0 15px 15px;
+}
+
+.logado{
+    margin-left:70%;
+    padding:10px;
 }

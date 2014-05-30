@@ -261,11 +261,4 @@ input[type=text], select
     border-radius: 5px; /*up to date browsers support this, but you can add prefixes if you want*/    
 }
 
-#IE10,#IE9,#IE8 input[type=text], select
-{
-    font-size:14px;  
-    text-decoration: none;    
-    background-repeat: repeat-x;
-    overflow:hidden;
-    
-}
+
