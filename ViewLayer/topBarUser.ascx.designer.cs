@@ -58,21 +58,21 @@ namespace ViewLayer {
         protected global::System.Web.UI.WebControls.Label usuarioLogadoLabel;
         
         /// <summary>
-        /// painelHyperLink control.
+        /// painelLink control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink painelHyperLink;
+        protected global::System.Web.UI.WebControls.LinkButton painelLink;
         
         /// <summary>
-        /// sairHyperLink control.
+        /// sairLink control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink sairHyperLink;
+        protected global::System.Web.UI.WebControls.LinkButton sairLink;
     }
 }
