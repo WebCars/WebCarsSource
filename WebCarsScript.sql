@@ -1,3 +1,10 @@
+create table Usuario
+(
+	[cod-usuario] integer primary key,
+	senha varchar(255) not null,
+	[nm-usuario] varchar(255) not null
+);
+
 create table Administrador
 (
 	 [cod-usuario] integer primary key,
@@ -37,17 +44,6 @@ create table Localidade
 	bairro varchar(255) not null,
 	endereco varchar(255) not null
 );
-
-create table AnuncioLocalidade
-(
-	[cod-anuncio] integer primary key,
-	[cod-local] integer primary key,
-	constraint AnuncioLocalidade_fk foreign key ([cod-anuncio])
-	references Anuncio([cod-anuncio]),
-	constraint LocalidadeAnuncio_fk foreign key ([cod-local])
-	references Localidade([cod-local])
-
-)
 
 create table Marca
 (
@@ -103,3 +99,38 @@ create table Anuncio
 );
 
 
+create table AnuncioLocalidade
+(
+	[nr-anuncio] integer,
+	[cod-local] integer,
+	constraint AnuncioLocalidade_fk foreign key ([nr-anuncio])
+	references Anuncio([nr-anuncio]),
+	constraint LocalidadeAnuncio_fk foreign key ([cod-local])
+	references Localidade([cod-local]),
+	constraint AnuncioLocalidade_pk primary key ([nr-anuncio],[cod-local])
+
+);
+
+
+create table VeiculoCombust
+(
+	[nr-anuncio] integer,
+	[cod-combustivel] integer,
+	constraint VeiculoCombust_fk foreign key ([nr-anuncio])
+	references Anuncio([nr-anuncio]),
+	constraint CombustVeiculo_fk foreign key ([cod-combustivel])
+	references Combustivel([cod-combustivel]),
+	constraint VeiculoCombust_pk primary key ([nr-anuncio],[cod-combustivel])
+
+);
+
+create table CategoriaOpcionais
+(
+	[cod-categoria] integer,
+	[cod-opcional] integer,
+	constraint CategoriaOpcionais_fk foreign key ([cod-categoria])
+	references Categoria([cod-categoria]),
+	constraint OpcionaisCategoria_fk foreign key ([cod-opcional])
+	references Opcionais([cod-opcional]),
+	constraint CategoriaOpcionais_pk primary key ([cod-categoria],[cod-opcional])
+);
