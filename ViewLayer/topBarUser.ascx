@@ -13,8 +13,10 @@
     </div>
     <div id="logado" class="logado" runat="server">
         <asp:Label ID="usuarioLogadoLabel" runat="server" Text="" CssClass="text"></asp:Label>
-        <asp:HyperLink ID="painelHyperLink" runat="server">Conta</asp:HyperLink>
-        <asp:HyperLink ID="sairHyperLink" runat="server">Sair</asp:HyperLink>
+     
+        <asp:LinkButton ID="painelLink" runat="server">Conta</asp:LinkButton>
+        <asp:LinkButton ID="sairLink" runat="server" OnClick="sairLink_Click">Sair</asp:LinkButton>           
+        
     </div>
 </div>
 

@@ -32,5 +32,11 @@ namespace ViewLayer
                 login.Visible = true;
             }
         }
+
+        protected void sairLink_Click(object sender, EventArgs e)
+        {
+            HttpContext.Current.Session.Abandon();
+            Page.Response.Redirect(Page.Request.Url.ToString(), true);
+        }
     }
 }
