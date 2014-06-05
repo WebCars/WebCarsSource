@@ -22,6 +22,33 @@ namespace ViewLayer {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// topBarUser control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ViewLayer.topBarUser topBarUser;
+        
+        /// <summary>
+        /// tituloAnuncio control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label tituloAnuncio;
+        
+        /// <summary>
+        /// propostaButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button propostaButton;
+        
+        /// <summary>
         /// nrAnuncioLabel control.
         /// </summary>
         /// <remarks>

@@ -1,0 +1,26 @@
+/*if you just want to adjust the size of the stage and the thumbnails, you can do so by editing the following lines: */
+@import url('base.css');
+
+/*if you just want to adjust the size of the stage and the thumbnails, you can do so by editing the following lines: */
+.pika-thumbs li{width: 130px; height:90px;  border: 1px solid #A4BACA;
+             box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);	}
+.pika-thumbs .active{
+     border: 1px solid #ff3434;         
+}
+
+.pika-thumbs li .active{
+     border: 0;         
+}
+
+.pikachoose{width:1000px; position:relative;}
+#pikame{width: 150px;}
+.pika-thumbs {margin: 10px 0 0 17px; width:250px;position: absolute; top: 10px;right: 30px;}
+	.pika-thumbs li { margin: 5px 5px;}
+
+/* jCarousel Styles */
+/*if you're not using the carousel you can delete everything below this */
+.jcarousel-skin-pika {position:absolute;top:-5px;right:20px;}
+.jcarousel-skin-pika .jcarousel-container-vertical { width: 125px;height: 230px; overflow:hidden;}
+.jcarousel-skin-pika .jcarousel-clip-vertical { width:  125px; height: 230px;}
+.jcarousel-skin-pika .jcarousel-item-vertical { margin-top: 10px;}
+#pikame li img {max-width: 100%; height: auto; width: auto\9; /* ie8 */}

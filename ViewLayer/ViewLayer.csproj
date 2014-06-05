@@ -60,9 +60,13 @@
     <Content Include="anuncio.aspx" />
     <Content Include="cadastro.aspx" />
     <Content Include="css\anuncioStyle.css" />
+    <Content Include="css\base.css" />
+    <Content Include="css\bottom.css" />
     <Content Include="css\cadastroStyle.css" />
     <Content Include="css\craftyslide.css" />
+    <Content Include="css\left.css" />
     <Content Include="css\loginStyle.css" />
+    <Content Include="css\right.css" />
     <Content Include="css\slippry.css" />
     <Content Include="css\supersized.css" />
     <Content Include="css\supersized.shutter.css" />
@@ -76,6 +80,10 @@
     <Content Include="js\jquery-min.js" />
     <Content Include="js\jquery.easing.1.3.js" />
     <Content Include="js\jquery.easing.min.js" />
+    <Content Include="js\jquery.jcarousel.min.js" />
+    <Content Include="js\jquery.pikachoose.js" />
+    <Content Include="js\jquery.pikachoose.min.js" />
+    <Content Include="js\jquery.touchwipe.min.js" />
     <Content Include="js\quicksand.js" />
     <Content Include="js\slippry.js" />
     <Content Include="js\supersized.3.2.7.js" />

@@ -15,7 +15,7 @@ namespace ViewLayer
             List<string> paginas = new List<string>();
             Application["paginaSegura"] = new List<string>();
 
-            paginas.Add("anuncio.aspx");
+            paginas.Add("/anuncio.aspx");
             paginas.Add("");
             paginas.Add("");
 

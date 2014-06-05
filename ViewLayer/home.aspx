@@ -7,7 +7,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link href="css/topBarStyle.css" rel="stylesheet" />    
+    
     <link href="css/slippry.css" rel="stylesheet" />
     <link href="css/homeStyle.css" rel="stylesheet" />
     <title></title>
