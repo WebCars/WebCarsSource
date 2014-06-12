@@ -16,74 +16,63 @@ C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\Web
 C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
 C:\Gradebook\WebCarsSource\ViewLayer\bin\DataObjects.dll
 C:\Gradebook\WebCarsSource\ViewLayer\bin\DataObjects.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ViewLayer.dll.config
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ViewLayer.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ViewLayer.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\DataObjects.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\DataObjects.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\obj\Debug\ViewLayer.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\AjaxControlToolkit.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\AjaxMin.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\BusinessLayer.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\DataAccess.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.Data.Edm.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.Data.OData.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Configuration.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Storage.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\System.Spatial.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\BusinessLayer.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\DataAccess.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.xml
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.Data.Edm.xml
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.Data.OData.xml
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Storage.pdb
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Storage.xml
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\System.Spatial.xml
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ar\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\cs\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\de\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\es\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\fr\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\he\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\hi\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\it\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ja\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ko\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\nl\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\pl\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\pt\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ru\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\tr-TR\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-CHS\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-CHT\AjaxControlToolkit.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\de\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\es\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\fr\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\it\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ja\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ko\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ru\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\de\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\es\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\fr\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\it\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ja\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ko\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ru\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\de\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\es\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\fr\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\it\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ja\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ko\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\ru\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hans\System.Spatial.resources.dll
-C:\Users\Edian\Documents\Visual Studio 2012\Projects\WebCarsSource\ViewLayer\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\DataObjects.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\DataObjects.pdb
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\AjaxControlToolkit.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\AjaxMin.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.Data.Edm.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.Data.OData.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\System.Spatial.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.pdb
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\HtmlAgilityPack.xml
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.Data.Edm.xml
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.Data.OData.xml
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\System.Spatial.xml
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\de\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\es\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\fr\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\it\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ja\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ko\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\ru\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Fabrício\Documents\FTEC\Projeto de Sistemas para Web\Visual Studio\WebCarsSource\ViewLayer\bin\zh-Hant\System.Spatial.resources.dll
