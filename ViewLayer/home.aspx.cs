@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using BusinessLayer;
+using DataObjects;
 
 namespace ViewLayer
 {
@@ -28,6 +30,15 @@ namespace ViewLayer
                 anoFinalDropDownList2.Items.Insert(cont, new ListItem(date.Year.ToString(), date.Year.ToString()));
                 cont++;
             }
+        }
+
+        private void destaques()
+        {
+            List<Anuncio> destaques;
+            AnuncioBL anuncioBL = new AnuncioBL();
+
+            destaques = anuncioBL.destaques();
+ 
         }
         
     }
