@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="anuncio.aspx.cs" Inherits="ViewLayer.anuncio" %>
 
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
 <%@ Register Src="~/topBarUser.ascx" TagPrefix="uc1" TagName="topBarUser" %>
 
 
@@ -14,11 +16,17 @@
 	<link type="text/css" href="css/right.css" rel="stylesheet" />	
     
     <script src="js/jquery-min.js"></script>
+    <script src="js/ancora.js"></script>
     <script src="js/jquery.jcarousel.min.js"></script>    
     <script src="js/jquery.pikachoose.min.js"></script>
     <script src="js/jquery.touchwipe.min.js"></script>
 	<script language="javascript">	   
-			$(document).ready(function (){
+	    $(document).ready(function () {
+
+	        var alturaTela = $(window).height();
+	        $("#primeiraPagina").height(alturaTela);
+	        $("#segundaPagina").height(alturaTela);
+
 			    $("#pikame").PikaChoose({
 			        carousel: false,
 			        carouselVertical: false,
@@ -27,6 +35,7 @@
                     text: {previous: "Anterior", next: "Próximo" }
 			    });
 			});
+
 		
 	</script>
 </head>
@@ -52,7 +61,8 @@
             <div id="caracteristicas">
                 <div id="principal">
                     <div id="botoes">
-                        <asp:Button ID="propostaButton" runat="server" Text="Fazer uma proposta"/>
+                        <button ID="propostaButton">Fazer uma proposta</button>
+                        <!--<asp:Button ID="propostaButton" runat="server" Text="Fazer uma proposta" UseSubmitBehavior="False" />-->
                     </div>
                     <ul>
                         <li>
@@ -121,7 +131,40 @@
                 </div>
              </div>
             <div id="segundaPagina">
+                <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server"></asp:ToolkitScriptManager>
+                <ajaxToolkit:ModalPopupExtender ID="MPE" runat="server"
+                     TargetControlID="propostaButton"
+                     PopupControlID="proposta"
+                     BackgroundCssClass="modalBackground" 
+                     DropShadow="true"  >                  
+                 </ajaxToolkit:ModalPopupExtender>
 
+                
+
+                <div id="proposta">
+                    <table>
+                        
+                    <tr><td><asp:Label ID="nomeLabel" runat="server" Text="Nome"></asp:Label></td>
+                    <td><asp:TextBox ID="nomeTextBox" runat="server"></asp:TextBox></td></tr>
+                    
+                    <tr><td><asp:Label ID="cidadeLabel" runat="server" Text="Cidade"></asp:Label></td>
+                    <td><asp:TextBox ID="cidadeTextBox" runat="server"></asp:TextBox></td></tr>
+
+                    <tr><td><asp:Label ID="telefoneLabel" runat="server" Text="Telefone"></asp:Label></td>
+                    <td><asp:TextBox ID="telefoneTextBox" runat="server"></asp:TextBox></td></tr>
+
+                    <tr><td><asp:Label ID="celularLabel" runat="server" Text="Celular"></asp:Label></td>
+                    <td><asp:TextBox ID="celularTextBox" runat="server"></asp:TextBox></td></tr>
+
+                    <tr><td><asp:Label ID="emailLabel" runat="server" Text="Email"></asp:Label></td>
+                    <td><asp:TextBox ID="emailTextBox" runat="server"></asp:TextBox></td></tr>
+
+                    <tr><td><asp:Label ID="propostaLabel" runat="server" Text="Proposta"></asp:Label></td>
+                    <td><asp:TextBox id="propostaTextArea" TextMode="multiline" Columns="50" Rows="5" runat="server" /></td></tr>
+
+                    </table>
+
+                </div>
             </div>
         </div>
     </div>
